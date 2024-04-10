@@ -1,0 +1,9 @@
+{
+    "dependencies": {
+      "moment": ">0.0.1",
+      "lodash": ">0.0.1",
+      "urlencode": ">0.0.1",
+      "readline": ">0.0.1",
+      "app-root-path": ">0.0.1"
+    }
+}
