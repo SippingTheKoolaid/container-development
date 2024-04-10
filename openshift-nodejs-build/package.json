@@ -1,4 +1,5 @@
 {
+    "start": "webpack-dev-server --mode development --open",
     "dependencies": {
       "moment": ">0.0.1",
       "lodash": ">0.0.1",
